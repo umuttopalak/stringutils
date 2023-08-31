@@ -21,7 +21,7 @@ func main(){
 	reversed, err := stringutils.Reverse("vigo")
 	if err != nil {
 		log.Fatal(err)
-	}    
+	}
 	fmt.Println(reversed) // ogiv
 }
 ```
