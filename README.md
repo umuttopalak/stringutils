@@ -14,7 +14,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/vigo/stringutils-demo"
+	"github.com/umuttopalak/stringutils-demo"
 )
 
 func main(){
